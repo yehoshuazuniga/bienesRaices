@@ -28,4 +28,4 @@ Recursos y herramientas utilizadas:
   </dd>
 </dl>
 
-<p><b>Crear clases de test para qpaginas que no tengan formularios, faltan enlaces hacia login(tiene que aparecer y deshaparecer de pendiendo de que si esta conectado o no), resolver la activacion automatica de darkmode o mejoar los textos cuanto el darmode este activo y por ultimo buscar servidar para desplegar</b></p>
+<p hidden><b>Crear clases de test para paginas que no tengan formularios, faltan enlaces hacia login(tiene que aparecer y deshaparecer de pendiendo de que si esta conectado o no), resolver la activacion automatica de darkmode o mejoar los textos cuanto el darmode este activo y por ultimo buscar servidar para desplegar</b></p>
